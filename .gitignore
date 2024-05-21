@@ -1,0 +1,5 @@
+.idea
+.DB_store
+target
+.env
+logs
